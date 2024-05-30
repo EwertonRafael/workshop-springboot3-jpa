@@ -3,8 +3,6 @@ package com.ewerton.course.entities;
 import java.io.Serializable;
 import java.util.Objects;
 
-import org.hibernate.annotations.GeneratorType;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
